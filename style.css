@@ -1,6 +1,7 @@
 body{
 font-family: 'Poppins', sans-serif;
 }
+
 .banner{
     background-image: url(img/pexels-ron-lach-10526880.jpg);
     padding: 250px 0;
@@ -9,5 +10,23 @@ font-family: 'Poppins', sans-serif;
 }
 
 .skill-pad{
-    padding: 70px 0;
+    padding: 160px 0;
+}
+.cwidth{
+    width: 40px;
+}
+.bootw{
+    width: 36px;
+}
+.jqw{
+    width: 57px;
+}
+.jsw{
+    width: 135px;
+}
+.csw{
+    width: 66px;
+}
+.htw{
+    width: 63px;
 }
