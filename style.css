@@ -1,0 +1,28 @@
+body{
+font-family: 'Poppins', sans-serif;
+}
+.banner{
+    background-image: url(img/pexels-ron-lach-10526880.jpg);
+    padding: 250px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.cwidth{
+    width: 53px;
+}
+.jwidth{
+    width: 118px;
+}
+.jqwidth{
+    width: 69px;
+}
+.cawidth{
+    width: 93px;
+}
+.skill-pad{
+    padding: 260px 0;
+}
+.about-padding{
+    padding: 150px 0;
+    
+}
